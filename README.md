@@ -29,7 +29,7 @@ Key features:
 - Product category analysis
 - Executive summary dashboard with daily trend visualization
 
-### 4. Customer Data Cleaning Pipeline (`customer_data_cleaning.py`)
+### 3. Customer Data Cleaning Pipeline (`customer_data_cleaning.py`)
 
 A data wrangling pipeline that takes a raw customer CSV and produces a clean, validated, enriched dataset ready for analysis or CRM import.
 
@@ -47,7 +47,7 @@ A realistic sample dataset (`raw_customers.csv`) is included in the repo with in
 
 ---
 
-### 3. Hotel Revenue Opportunity Simulation (`hotel_revenue_simulation.py`)
+### 4. Hotel Revenue Opportunity Simulation (`hotel_revenue_simulation.py`)
 
 A sales-oriented simulation tool built for the hospitality industry. Takes hotel inputs (rooms, ADR, occupancy) and runs a Monte Carlo simulation to model potential revenue upside from improvements in AI visibility, review ratings, and response rate.
 
